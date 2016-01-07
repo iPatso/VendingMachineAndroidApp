@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Vending Machine</string>
+    <string name="item1_name">The Rebel Lay\'s</string>
+    <string name="item1_value">1.00</string>
+    <string name="item2_name">S. Destroyer Doritos</string>
+    <string name="item2_value">1.50</string>
+    <string name="item3_name">Wookie Cookies</string>
+    <string name="item3_value">0.50</string>
+    <string name="item4_name">X-Wing Pretzels</string>
+    <string name="item4_value">2.00</string>
+    <string name="item5_name">TIE Fighter Pop-Tarts</string>
+    <string name="item5_value">2.50</string>
+    <string name="item6_name">Chewie Snickers</string>
+    <string name="item6_value">2.00</string>
+    <string name="item7_name">BB-8  by Sphero</string>
+    <string name="item7_value">150.00</string>
+    <string name="item8_name">Kylo Ren\'s Lightsaber</string>
+    <string name="item8_value">65.00</string>
+    <string name="item9_name">Nerf Bowcaster</string>
+    <string name="item9_value">50.00</string>
+
+    <string name="noItemChosenError">Please choose an item to purchase</string>
+    <string name="noInputAmountError">Please input amount above</string>
+    <string name="insufficientFundsError">Cannot purchase: Insufficient funds</string>
+    <string name="returnToVendMach">Return to Vending Machine</string>
+    <string name="maxInput">Please input an amount no more than one trillion dollars</string>
+    <string name="blank" />
+
+
+</resources>
